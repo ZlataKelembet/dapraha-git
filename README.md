@@ -1,4 +1,4 @@
-# Úvod do Gitu
+﻿# Úvod do Gitu
 
 Slajdy a materiály pro lekci Úvod do Gitu v rámci Digitální Akademie v Praze
 od [Czechitas](https://www.czechitas.cz).
@@ -32,3 +32,5 @@ prezentace i tak vyžaduje přístup k internetu (kvůli fontům a RevealJS knih
 ## Odkazy
 
 * [Git Cheat-Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+Byla jsem tuuu!!!
